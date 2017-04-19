@@ -14,7 +14,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Joe "Amawuff" Buchalter ** 
+* **Joe Buchalter ** 
 
 
 ## License
