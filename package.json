@@ -1,0 +1,11 @@
+{
+  "name": "browser-rpg",
+  "version": "0.0.0",
+  "description": "Browser based rpg system",
+  "author": "Joe Buchalter",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
