@@ -1,5 +1,5 @@
 # Browser RPG 
-Current Version: 0.1.0
+**Current Version: 0.1.0**
 
 A browser based RPG system
 
@@ -14,7 +14,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Joe Buchalter ** 
+* **Joe Buchalter** 
 
 
 ## License
